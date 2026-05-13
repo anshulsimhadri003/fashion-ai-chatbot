@@ -1,8 +1,8 @@
 # Fashion-Tech RAG Conversational AI Chatbot
 
-A complete assessment-ready GenAI chatbot for a fashion company. The bot assists users with saree and blouse styling, event/color/mood-based recommendations, and platform help-desk FAQs.
+The bot assists users with saree and blouse styling, event/color/mood-based recommendations, and platform help-desk FAQs.
 
-This upgraded version is intentionally more realistic than a basic rule-based demo. It includes:
+It includes:
 
 - FastAPI backend
 - React/Vite frontend
