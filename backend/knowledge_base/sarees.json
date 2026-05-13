@@ -1,0 +1,98 @@
+[
+  {
+    "id": "saree_banarasi_silk",
+    "category": "saree",
+    "name": "Banarasi Silk Saree",
+    "fabric": "silk",
+    "style": "traditional royal festive",
+    "best_for": ["wedding", "reception", "festival", "engagement"],
+    "colors": ["red", "maroon", "gold", "emerald", "royal blue"],
+    "mood": ["royal", "traditional", "grand", "elegant"],
+    "description": "A rich silk saree with zari work, best for grand Indian occasions and traditional styling.",
+    "styling_tips": [
+      "Pair with a zari or brocade blouse.",
+      "Use temple jewellery or kundan accessories.",
+      "Keep the blouse structured for a premium look."
+    ]
+  },
+  {
+    "id": "saree_pastel_organza",
+    "category": "saree",
+    "name": "Pastel Organza Saree",
+    "fabric": "organza",
+    "style": "modern elegant minimal",
+    "best_for": ["day wedding", "engagement", "reception", "bridesmaid", "party"],
+    "colors": ["pastel pink", "lavender", "mint", "powder blue", "ivory"],
+    "mood": ["soft", "modern", "romantic", "elegant", "minimal"],
+    "description": "A lightweight, sheer saree that gives a soft modern look for daytime or semi-formal events.",
+    "styling_tips": [
+      "Pair with pearl-work, sequin, or sleeveless blouses.",
+      "Choose dewy makeup and minimal jewellery.",
+      "Works well for modern wedding guest looks."
+    ]
+  },
+  {
+    "id": "saree_georgette_party",
+    "category": "saree",
+    "name": "Embellished Georgette Saree",
+    "fabric": "georgette",
+    "style": "party glamorous flowy",
+    "best_for": ["cocktail", "party", "sangeet", "reception", "date night"],
+    "colors": ["black", "wine", "champagne", "silver", "navy"],
+    "mood": ["glam", "bold", "chic", "modern"],
+    "description": "A flowy saree with light shimmer or embellishment, ideal for evening events and party styling.",
+    "styling_tips": [
+      "Pair with a strappy, corset, or sequinned blouse.",
+      "Statement earrings work better than heavy necklaces.",
+      "Add heels for a sharper silhouette."
+    ]
+  },
+  {
+    "id": "saree_cotton_linen",
+    "category": "saree",
+    "name": "Cotton Linen Saree",
+    "fabric": "cotton linen",
+    "style": "minimal breathable casual office",
+    "best_for": ["office", "daily wear", "casual", "summer", "work meeting"],
+    "colors": ["beige", "white", "grey", "indigo", "olive", "mustard"],
+    "mood": ["minimal", "comfortable", "earthy", "smart"],
+    "description": "A breathable and polished saree for workwear, casual outings, or simple daytime dressing.",
+    "styling_tips": [
+      "Pair with a boat-neck, collared, or printed cotton blouse.",
+      "Use oxidised jewellery or a simple watch.",
+      "Keep pleats crisp for a clean workwear look."
+    ]
+  },
+  {
+    "id": "saree_chiffon_romantic",
+    "category": "saree",
+    "name": "Soft Chiffon Saree",
+    "fabric": "chiffon",
+    "style": "romantic lightweight graceful",
+    "best_for": ["date night", "farewell", "party", "casual celebration", "brunch"],
+    "colors": ["peach", "rose", "sky blue", "black", "sage"],
+    "mood": ["romantic", "soft", "feminine", "simple"],
+    "description": "A light drapey saree that creates a graceful silhouette and is easy to carry.",
+    "styling_tips": [
+      "Pair with a sweetheart, halter, or simple sleeveless blouse.",
+      "Choose soft curls or a clean bun.",
+      "Avoid overly heavy jewellery."
+    ]
+  },
+  {
+    "id": "saree_haldi_yellow",
+    "category": "saree",
+    "name": "Yellow Floral Saree",
+    "fabric": "organza georgette cotton silk",
+    "style": "bright festive daytime",
+    "best_for": ["haldi", "mehendi", "day function", "festival"],
+    "colors": ["yellow", "mustard", "lime", "ivory", "green"],
+    "mood": ["fresh", "joyful", "festive", "playful"],
+    "description": "A cheerful lightweight saree suited for haldi, mehendi, and daytime family functions.",
+    "styling_tips": [
+      "Pair with a floral, mirror-work, or sleeveless blouse.",
+      "Use floral jewellery or oxidised accessories.",
+      "Keep the drape comfortable for movement."
+    ]
+  }
+]

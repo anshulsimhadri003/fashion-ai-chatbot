@@ -1,0 +1,62 @@
+[
+  {
+    "id": "blouse_high_neck_embroidery",
+    "category": "blouse",
+    "name": "High-Neck Embroidered Blouse",
+    "neckline": "high neck",
+    "sleeves": "elbow sleeve or full sleeve",
+    "style": "elegant traditional premium",
+    "best_for": ["silk saree", "banarasi", "wedding", "reception", "festival"],
+    "colors": ["gold", "maroon", "emerald", "navy"],
+    "description": "A structured blouse that adds sophistication to silk and heavy sarees.",
+    "pairing_tips": ["Best with Banarasi, Kanjivaram, and heavy silk sarees.", "Keep jewellery balanced because the neckline is already strong."]
+  },
+  {
+    "id": "blouse_pearl_work",
+    "category": "blouse",
+    "name": "Pearl-Work Blouse",
+    "neckline": "sweetheart or boat neck",
+    "sleeves": "sleeveless or short sleeve",
+    "style": "modern soft elegant",
+    "best_for": ["organza", "pastel saree", "engagement", "day wedding", "reception"],
+    "colors": ["ivory", "pastel pink", "champagne", "silver"],
+    "description": "A refined blouse option that works beautifully with pastel and organza sarees.",
+    "pairing_tips": ["Use with pearl earrings or soft stone jewellery.", "Works well for modern wedding looks."]
+  },
+  {
+    "id": "blouse_corset_sequin",
+    "category": "blouse",
+    "name": "Corset Sequin Blouse",
+    "neckline": "deep sweetheart or square neck",
+    "sleeves": "sleeveless",
+    "style": "bold glam party",
+    "best_for": ["georgette", "cocktail", "sangeet", "party", "reception"],
+    "colors": ["black", "silver", "champagne", "wine"],
+    "description": "A glamorous blouse for evening saree looks and partywear styling.",
+    "pairing_tips": ["Pair with flowy georgette or chiffon sarees.", "Skip heavy neckpieces and use statement earrings."]
+  },
+  {
+    "id": "blouse_boat_neck_cotton",
+    "category": "blouse",
+    "name": "Boat-Neck Cotton Blouse",
+    "neckline": "boat neck",
+    "sleeves": "short or elbow sleeve",
+    "style": "minimal smart workwear",
+    "best_for": ["cotton saree", "linen saree", "office", "daily wear", "casual"],
+    "colors": ["white", "black", "indigo", "beige", "olive"],
+    "description": "A clean and practical blouse design for everyday, office, and minimal looks.",
+    "pairing_tips": ["Use with printed cottons, linen sarees, and handloom drapes.", "Add a watch, studs, or oxidised jewellery."]
+  },
+  {
+    "id": "blouse_mirror_work",
+    "category": "blouse",
+    "name": "Mirror-Work Blouse",
+    "neckline": "round, square, or sweetheart",
+    "sleeves": "short sleeve or sleeveless",
+    "style": "festive playful ethnic",
+    "best_for": ["haldi", "mehendi", "festival", "yellow saree", "green saree"],
+    "colors": ["yellow", "green", "white", "orange", "pink"],
+    "description": "A lively festive blouse that adds sparkle to haldi, mehendi, and celebratory saree looks.",
+    "pairing_tips": ["Pair with floral or bright sarees.", "Keep accessories fun and not too heavy."]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rule_wedding_royal",
+    "topic": "wedding styling",
+    "applies_to": ["wedding", "reception", "engagement"],
+    "rule": "For weddings and receptions, richer fabrics like silk, organza, and embellished georgette work well. Match the outfit intensity to the function timing: heavier for night, softer for day.",
+    "recommendations": ["Banarasi silk for traditional looks", "Pastel organza for modern daytime looks", "Embellished georgette for reception or cocktail looks"]
+  },
+  {
+    "id": "rule_haldi_mehendi",
+    "topic": "haldi and mehendi styling",
+    "applies_to": ["haldi", "mehendi", "day function"],
+    "rule": "Haldi and mehendi outfits should be bright, comfortable, and easy to move in. Yellow, mustard, lime, ivory, and green are strong choices.",
+    "recommendations": ["Yellow floral saree", "Mirror-work blouse", "Floral jewellery", "Comfortable draping"]
+  },
+  {
+    "id": "rule_office",
+    "topic": "office saree styling",
+    "applies_to": ["office", "work", "meeting", "daily wear"],
+    "rule": "For office and daily wear, choose breathable fabrics and clean blouse cuts. Cotton, linen, and handloom sarees look polished without feeling too heavy.",
+    "recommendations": ["Cotton linen saree", "Boat-neck blouse", "Neutral colors", "Minimal jewellery"]
+  },
+  {
+    "id": "rule_color_pastel",
+    "topic": "pastel color pairing",
+    "applies_to": ["pastel", "soft", "minimal", "romantic"],
+    "rule": "Pastel sarees pair best with ivory, pearl, silver, champagne, and tonal blouses. Avoid very harsh contrast unless the user wants a bold look.",
+    "recommendations": ["Pearl-work blouse", "Silver jewellery", "Soft makeup", "Ivory accessories"]
+  },
+  {
+    "id": "rule_color_black",
+    "topic": "black saree styling",
+    "applies_to": ["black", "party", "cocktail", "bold"],
+    "rule": "Black sarees work well for cocktail, party, and evening events. Pair with silver, gold, black sequin, or corset blouses depending on the mood.",
+    "recommendations": ["Corset sequin blouse", "Statement earrings", "Sleek bun", "Metallic clutch"]
+  },
+  {
+    "id": "rule_blouse_balance",
+    "topic": "blouse and saree balance",
+    "applies_to": ["blouse", "neckline", "sleeves", "styling"],
+    "rule": "Balance is important: heavy sarees need structured blouses, while simple sarees can handle statement blouses. If the blouse is detailed, keep jewellery lighter.",
+    "recommendations": ["High-neck blouse for silk", "Pearl blouse for organza", "Corset blouse for party sarees", "Boat-neck blouse for cotton/linen"]
+  }
+]

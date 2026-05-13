@@ -1,0 +1,37 @@
+[
+  {
+    "id": "faq_track_order",
+    "category": "faq",
+    "question": "How can I track my order?",
+    "keywords": ["track", "order", "shipping", "delivery", "where is my order"],
+    "answer": "You can track your order from the My Orders section using your registered phone number or email. Once shipped, tracking details will be visible on the order page."
+  },
+  {
+    "id": "faq_return_policy",
+    "category": "faq",
+    "question": "What is the return policy?",
+    "keywords": ["return", "refund", "exchange", "replace"],
+    "answer": "You can request a return or exchange from the My Orders section if the item is eligible. The product should be unused, with tags and original packaging intact."
+  },
+  {
+    "id": "faq_custom_blouse",
+    "category": "faq",
+    "question": "Can I customize blouse size or design?",
+    "keywords": ["custom", "customize", "size", "measurement", "blouse stitching", "alteration"],
+    "answer": "If customization is available for a product, you can enter blouse measurements or select design options on the product page before checkout."
+  },
+  {
+    "id": "faq_payment",
+    "category": "faq",
+    "question": "What payment methods are supported?",
+    "keywords": ["payment", "upi", "card", "cash", "cod", "net banking"],
+    "answer": "The platform supports common payment options such as UPI, cards, net banking, wallets, and cash on delivery where available."
+  },
+  {
+    "id": "faq_delivery_time",
+    "category": "faq",
+    "question": "How long does delivery take?",
+    "keywords": ["delivery time", "shipping time", "how many days", "arrive"],
+    "answer": "Delivery time depends on your location and product availability. Most orders show an estimated delivery date before checkout."
+  }
+]
