@@ -393,7 +393,7 @@ npm run build
 
 ## 11. What Makes This More Intelligent
 
-Compared to a basic chatbot, this version includes:
+Compared to a basic chatbot, this includes:
 
 - Semantic document retrieval instead of only keyword matching
 - FAISS vector search
@@ -406,21 +406,3 @@ Compared to a basic chatbot, this version includes:
 - Structured response contract for frontend rendering
 
 ---
-
-## 12. Notes for Submission
-
-You can submit this as a GitHub repository with:
-
-- Source code
-- Working demo using the React UI or FastAPI docs
-- Architecture explanation in this README
-- Setup instructions
-- Sample test cases under `tests/sample_test_cases.md`
-
-For a strong job submission, record a short demo showing:
-
-1. A wedding recommendation.
-2. A natural follow-up that uses memory.
-3. A blouse pairing question.
-4. A platform FAQ question.
-5. The frontend displaying retrieved sources and recommendation cards.
